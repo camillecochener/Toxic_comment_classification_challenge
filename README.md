@@ -43,7 +43,7 @@ As we participated in this competition as a "late submission", we cannot obtain 
 
 ## Our app
 
-The application is contained in the ```app``` folder. <br>
+The application is contained in the ```app``` folder. The model is not include in the folder because it was too heavy (~250 Mo). <br>
 To launch the application, simply move to the folder by typing in the Terminal :<br>
 
 ```python 
@@ -61,7 +61,7 @@ python app.py
 It will then be possible to open the application with the local server address ```http://127.0.0.1:8050/```. <br>
 
 <p align="center">
-  <img src="app.gif" width="800"/>
+  <img src="app.gif" width="1000"/>
 </p>
 
 ## Presentation of our team
