@@ -117,7 +117,7 @@ app.layout = html.Div(children=[
         html.Div('This predictive tool was built as part of a student project during our Post Master degree in Big Data at Télécom Paris. The data used to build the tool are from the Kaggle "Toxic Comment Classification Challenge" organized by Jigsaw and Conversation AI.',
         style={'textAlign': 'center', 'margin-left': '300px', 'margin-right': '300px', 'margin-top': '30px', 'margin-bottom': '30px'}),
         html.Div(children=[
-            html.A([html.Img(src='assets/github-icon.png', style={'width': '30px'})], href='https://github.com/camillecochener/Projet_fil_rouge')
+            html.A([html.Img(src='assets/github-icon.png', style={'width': '30px'})], href='https://github.com/camillecochener/Toxic_comment_classification_challenge')
         ],
         style={'textAlign': 'center', 'margin-bottom': '40px'}),
         
