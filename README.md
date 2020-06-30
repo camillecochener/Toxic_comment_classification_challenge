@@ -5,7 +5,7 @@
 
 <br>
 <p align="center">
-  <img src="kaggle-challenge.png" width="700"/>
+  <img src="kaggle-challenge.png" width="1000"/>
 </p>
 
 ## Context
@@ -50,7 +50,7 @@ Then type:
 It will then be possible to open the application with the local server address ```http://127.0.0.1:8050/```.
 
 <p align="center">
-  <img src="app.gif.PNG" width="600"/>
+  <img src="app.gif" width="600"/>
 </p>
 
 ## Presentation of our team
