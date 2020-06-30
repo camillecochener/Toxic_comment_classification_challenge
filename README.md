@@ -13,14 +13,14 @@ During our year of Post Master's Degree in Big Data at Télécom Paris, we carri
 More details about Télécom Paris <a href="https://www.telecom-paris.fr/en/post-masters-degree/all-post-masters-degree/post-masters-degree-in-big-data">here</a>.
 <br>
 <br>
-This project stems from the <a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview">Kaggle challenge</a> of the same name, organized by Jigsaw and Conversation AI. 
+This project stems from the <a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview">Kaggle challenge</a> of the same name, organized by <a href="https://jigsaw.google.com/">Jigsaw</a> and <a href="https://conversationai.github.io/">Conversation AI</a>. 
 <br>
 The objective of this challenge was to build a multi-headed model that’s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate better than Perspective’s current models.
 <br>
 More details about Perspective <a href="https://www.perspectiveapi.com/#/home">here</a>.
 <br>
 <br>
-In our study, several deep learning approaches are used and compared. Logistic regression (LR), Long Short-Term Memory Networks (LSTM), Convolutional Networks (CNN) combined with language processing techniques (NLP) and word representation methods (Word Embedding) are studied. These different approaches are evaluated using training and test data sets provided by the actors of the Kaggle competition. These datasets are composed of comments from English-language Wikipedia editing pages. Finally, a web application is developed and deployed to allow anyone to check the toxicity of a comment.
+In our study, several deep learning approaches are used and compared. Logistic regression (LR), Long Short-Term Memory Networks (LSTM), Convolutional Networks (CNN) combined with language processing techniques (NLP) and word representation methods (Word Embedding) are studied. These different approaches are evaluated using training and test sets provided by the actors of the Kaggle competition. These datasets are composed of approx 160k human labelled comments from Wikipedia Talk pages including 6 types of label : toxic, severe toxic, insult, threat, obscene and identity hate. Finally, a web application is developed and deployed to allow anyone to check the toxicity of a comment.
 <br>
 
 
