@@ -43,15 +43,15 @@ As we participated in this competition as a "late submission", we cannot obtain 
 
 ## Our app
 
-The application is contained in the ```app``` folder. 
-To launch the application, simply move to the folder by typing :
-```cd path_to_folder```
-Then type:
-```python app.py```
-It will then be possible to open the application with the local server address ```http://127.0.0.1:8050/```.
+The application is contained in the ```app``` folder. <br>
+To launch the application, simply move to the folder by typing in the Terminal :<br>
+```cd path_to_folder``` <br>
+Then type: <br>
+```python app.py``` <br>
+It will then be possible to open the application with the local server address ```http://127.0.0.1:8050/```. <br>
 
 <p align="center">
-  <img src="app.gif" width="600"/>
+  <img src="app.gif" width="800"/>
 </p>
 
 ## Presentation of our team
