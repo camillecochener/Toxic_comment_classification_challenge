@@ -15,7 +15,7 @@ More details about Télécom Paris <a href="https://www.telecom-paris.fr/en/post
 <br>
 This project stems from the <a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview">Kaggle challenge</a> of the same name, organized by <a href="https://jigsaw.google.com/">Jigsaw</a> and <a href="https://conversationai.github.io/">Conversation AI</a>. 
 <br>
-The objective of this challenge was to build a multi-headed model that’s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate better than Perspective’s current models.
+The objective of this challenge was to build a multi-headed model that’s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate better than Perspective’s current models.
 <br>
 More details about Perspective <a href="https://www.perspectiveapi.com/#/home">here</a>.
 <br>
